@@ -1,2 +1,5 @@
 bin/
 *.o
+make/external.mk
+make/scripts.mk
+make/sys.mk
